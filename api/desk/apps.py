@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class AdminConfig(AppConfig):
-    name = 'desk'
+    name = 'api.desk'
